@@ -1,4 +1,4 @@
-## A Rocketseat course consuming the Github api to list repositories
+## Consuming Github api to list repositories
 
 ## 🖥️ Technologies
 
